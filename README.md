@@ -18,3 +18,5 @@ This is a simple Python script for scanning ports on a specified IP address. It 
    ```bash
    git clone https://github.com/yourusername/simple-port-scanner.git
    cd simple-port-scanner
+  ```
+2.**Install the required library:**
