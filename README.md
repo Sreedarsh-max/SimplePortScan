@@ -31,5 +31,15 @@ This is a simple Python script for scanning ports on a specified IP address. It 
 2.When prompted, enter the target IP address you wish to scan. 
 
 3.The script will display whether each port in the range is open or closed.
+
+## Example
+```yml
+[+] Enter Target To Scan: 192.168.1.1
+[+] Scanning 192.168.1.1...
+[+] Port 70 is Open
+[-] Port 71 is Closed
+[-] Port 72 is Closed
+...
+```
   
 
